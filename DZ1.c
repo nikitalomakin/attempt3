@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
-int main() {
+int main(void) {
     printf("Введите число с плавающей точкой\n");
     char c;
 	 _Bool dot = 0;
